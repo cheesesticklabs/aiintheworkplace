@@ -1,0 +1,15 @@
+AI IN THE WORKPLACE — Cheesestick Labs
+
+Open dist/index.html for the student activity.
+Use the Español / English button to switch all instructions and questions.
+
+To host: upload the CONTENTS of dist to your existing static website host.
+The website ZIP also has index.html directly at its root.
+
+All tabs are open. No passwords or student accounts.
+Students investigate a job, research a real AI tool, classify five tasks,
+reflect independently on their future career, and download their completed briefing.
+
+Answers save on the same browser and device when browser storage is available.
+Students must download and upload their PDF/text file to your normal assignment.
+This site does not automatically submit to Google Sheets or any other service.
